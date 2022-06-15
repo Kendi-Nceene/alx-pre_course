@@ -1,1 +1,1 @@
-my second commit as a Sofware Engineer student at ALX
+my second commit as a Software Engineer student at ALX
